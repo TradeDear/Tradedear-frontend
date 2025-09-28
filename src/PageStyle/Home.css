@@ -1,0 +1,14 @@
+.page{
+    display: flex;
+    /* background-color: rgb(210, 246, 234); */
+}
+.one{
+    background-color: antiquewhite;
+    width: 30%;
+    height: 100vh;
+}
+.two{
+     background-color: rgb(244, 217, 181);
+    width: 70%;
+    height: 100vh;
+}

@@ -1,0 +1,11 @@
+.gradient-text {
+  background: linear-gradient(to right, #ff4d4d, #00cc66);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+}
+
+.yellow-text {
+  color: rgb(110, 175, 227);
+  font-weight: bold;
+}
