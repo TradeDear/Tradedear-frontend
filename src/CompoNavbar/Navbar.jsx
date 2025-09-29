@@ -149,7 +149,7 @@ const Navbar = () => {
                 aria-expanded={dropdownOpen}
               >
                 <img
-                  src="profile.jpg.jpg"
+                  src="Starter pfp.jpeg"
                   alt="User"
                   className="h-9 w-9 rounded-full border-2 border-gray-300 dark:border-gray-700 hover:border-green-400 transition"
                 />
